@@ -1,0 +1,124 @@
+/**
+ * 全局统一分页样式 - 居中、方便用户操作
+ * 适用于所有使用 .pagination-container 的页面
+ */
+
+/* 分页容器 - 居中 */
+.pagination-container {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 20px;
+  padding: 16px 0;
+  border-top: 1px solid #f0f0f0;
+}
+
+/* 总数、分页按钮组、每页条数 - 横向排列居中 */
+.pagination-container .total-count,
+.pagination-container .page-info,
+.pagination-container .pagination-info {
+  color: #666;
+  font-size: 14px;
+  margin: 0;
+}
+
+.pagination-container .pagination {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* 页码、上一页/下一页 - 加大点击区域，方便操作 */
+.pagination-container .page-number,
+.pagination-container .page-nav,
+.pagination-container .ellipsis {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 36px;
+  height: 36px;
+  padding: 0 10px;
+  font-size: 14px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #333;
+  border: 1px solid #e0e0e0;
+  background: #fff;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.pagination-container .page-number:hover,
+.pagination-container .page-nav:hover {
+  border-color: #c70019;
+  color: #c70019;
+  background: #fff5f5;
+}
+
+.pagination-container .page-number.active {
+  background: #c70019;
+  border-color: #c70019;
+  color: #fff;
+}
+
+.pagination-container .ellipsis {
+  border: none;
+  background: transparent;
+  cursor: default;
+  min-width: 28px;
+}
+
+.pagination-container .page-nav.disabled,
+.pagination-container .page-number.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+/* 每页条数选择 */
+.pagination-container .page-size-selector {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #666;
+  font-size: 14px;
+}
+
+.pagination-container .page-size-selector select {
+  padding: 6px 10px;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+  background: #fff;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+/* 上一页/下一页按钮样式（ExamManagement 等使用的 button） */
+.pagination-container .btn {
+  min-width: 80px;
+  padding: 8px 16px;
+}
+
+/* ExamAnalysis / ScoreAnalysis 的分页按钮 */
+.pagination-container .pagination-button {
+  min-width: 36px;
+  height: 36px;
+  padding: 0 12px;
+}
+
+/* el-pagination 居中（OperationLog 等） */
+.pager {
+  margin-top: 20px;
+  padding: 16px 0;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center;
+}
+
+.pager .el-pagination {
+  justify-content: center;
+}

@@ -1,0 +1,40 @@
+/* 全局 CSS 变量定义 */
+:root {
+  /* 品牌色 - 中车红 */
+  --color-primary-brand: #c70019;
+  --color-primary-brand-hover: #a80015;
+
+  /* 功能主色 - 科技蓝 (用于操作按钮、链接等) */
+  --color-primary: #1890ff;
+  --color-primary-hover: #40a9ff;
+  --color-primary-active: #096dd9;
+  --color-primary-bg: #e6f7ff; /* 浅蓝背景 */
+
+  /* 功能色 - 成功 */
+  --color-success: #52c41a;
+  --color-success-hover: #73d13d;
+  --color-success-bg: #f6ffed;
+
+  /* 功能色 - 警告 */
+  --color-warning: #faad14;
+  --color-warning-hover: #ffc53d;
+  --color-warning-bg: #fffbe6;
+
+  /* 功能色 - 错误/危险 */
+  --color-danger: #ff4d4f;
+  --color-danger-hover: #ff7875;
+  --color-danger-bg: #fff1f0;
+
+  /* 中性色 - 文本 */
+  --color-text-primary: #333333; /* 主文本 */
+  --color-text-regular: #666666; /* 常规文本 */
+  --color-text-secondary: #999999; /* 次要文本 */
+  --color-text-placeholder: #cccccc; /* 占位文本 */
+
+  /* 中性色 - 边框与背景 */
+  --color-border: #d9d9d9;
+  --color-border-light: #e8e8e8;
+  --color-bg-base: #f0f2f5; /* 页面背景 */
+  --color-bg-light: #fafafa; /* 模块背景 */
+  --color-bg-white: #ffffff;
+}

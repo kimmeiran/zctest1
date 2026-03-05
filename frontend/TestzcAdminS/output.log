@@ -1,0 +1,17 @@
+
+> exam-system@1.0.0 dev
+> vite
+
+
+  [32m[1mVITE[22m v4.5.14[39m  [2mready in [0m[1m4404[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3001[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+(node:67716) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[2m15:58:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/account/index.vue, /src/views/student/index.vue, /src/views/BasicExamManage.vue, /src/views/ProExamManage.vue, /src/views/new/PaperManagement2.vue, /src/views/PaperManagement.vue, /src/views/StudentScore.vue, /src/views/examStation/index.vue, /src/views/certificate/CertificateManagement.vue, /src/views/SkillExam.vue, /src/views/account/AccountModal.vue, /src/views/question/QuestionTable.vue, /src/views/studentScore/StudentDetail.vue, /src/views/exam/ExamDispatchPage.vue, /src/views/department/DepartmentManagement.vue, /src/views/AutoPaperManage.vue, /src/views/question/ImportQuestion.vue, /src/views/new/ManualPaperPage.vue, /src/views/new/PaperDetailView.vue, /src/views/question/AddQuestionModal.vue, /src/views/question/PreviewModal.vue, /src/components/AuthImage.vue, /src/views/new/manualPaper/QuestionBankPickerModal.vue, /src/views/question/editQuestion/QuestionContent.vue, /src/views/exam/ExamManagement.vue, /src/views/teachExam/ExamApplicants.vue, /src/views/paperApplication/PaperApplication.vue, /src/views/Main.vue, /src/views/Login.vue, /src/views/ClassManagement.vue, /src/views/DictionaryManagement.vue, /src/views/teachExam/ExamPapers.vue, /src/views/ScoreAnalysis.vue, /src/views/new/AutoPaperModal.vue, /src/views/ExamAnalysis.vue, /src/views/questionGroupRule/RuleDialog.vue, /src/components/StudentSelect.vue, /src/views/OperationLog.vue[22m
+[2m16:12:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Main.vue, /src/views/Login.vue, /src/views/student/index.vue, /src/views/BasicExamManage.vue, /src/views/ProExamManage.vue, /src/views/new/PaperManagement2.vue, /src/views/PaperManagement.vue, /src/views/AutoPaperManage.vue, /src/views/ClassManagement.vue, /src/views/StudentScore.vue, /src/views/DictionaryManagement.vue, /src/views/teachExam/ExamPapers.vue, /src/views/ScoreAnalysis.vue, /src/views/exam/ExamManagement.vue, /src/views/question/QuestionTable.vue, /src/views/question/ImportQuestion.vue, /src/views/new/ManualPaperPage.vue, /src/views/new/PaperDetailView.vue, /src/views/new/AutoPaperModal.vue, /src/views/ExamAnalysis.vue, /src/views/studentScore/StudentDetail.vue, /src/views/exam/ExamDispatchPage.vue, /src/views/teachExam/ExamApplicants.vue, /src/views/new/manualPaper/QuestionBankPickerModal.vue, /src/views/questionGroupRule/RuleDialog.vue, /src/components/StudentSelect.vue[22m
+[2m16:12:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Login.vue?vue&type=style&index=0&scoped=08aaad4e&lang.css, /src/views/Login.vue[22m
+[2m16:13:00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Login.vue[22m
+[2m16:13:03[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Login.vue[22m
+[2m16:13:05[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Login.vue[22m

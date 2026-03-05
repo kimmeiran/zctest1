@@ -1,0 +1,51 @@
+{
+  "name": "exam-system",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@vue-office/docx": "^1.6.2",
+    "@vue-office/excel": "^1.6.2",
+    "@vue-office/pdf": "^1.6.2",
+    "axios": "^1.9.0",
+    "element-plus": "^2.9.11",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^3.0.1",
+    "lucide-vue-next": "^0.513.0",
+    "vue-demi": "^0.14.10",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5",
+    "vue-tsc": "^2.2.10"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}

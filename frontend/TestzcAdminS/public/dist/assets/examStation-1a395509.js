@@ -1,0 +1,1 @@
+import{s as t}from"./request-b9b8c175.js";const s=()=>t.get("/api/examStation/all"),i=a=>t.post("/api/examStation/search",a),e=a=>t.post("/api/examStation/add",a),r=a=>t.put("/api/examStation/update",a),m=(a,n)=>t.post("/api/examStation/bind-admin",null,{params:{stationId:a,accountId:n}});export{e as a,m as b,s as g,i as s,r as u};

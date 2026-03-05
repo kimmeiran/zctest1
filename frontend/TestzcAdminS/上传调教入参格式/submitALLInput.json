@@ -1,0 +1,898 @@
+{
+    "questionName": "最终测试",
+    "questionType": "钳工",
+    "level": "中级工",
+    "domain": 0,
+    "questions": [
+        {
+            "content": "(      )是标注尺寸的起点。",
+            "type": "填空题",
+            "answer": "基准",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "2",
+            "importance": "X",
+            "number": 1
+        },
+        {
+            "content": "确定图形中线段间相对位置的尺寸称为(            )。",
+            "type": "填空题",
+            "answer": "定位尺寸",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "2",
+            "importance": "X",
+            "number": 2
+        },
+        {
+            "content": "按照尺寸基准性质可分为设计基准、(      )基准。",
+            "type": "填空题",
+            "answer": "工艺",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "2",
+            "importance": "X",
+            "number": 3
+        },
+        {
+            "content": "刀具材料的硬度越高，耐磨性(    )。",
+            "type": "单项选择题",
+            "answer": "B",
+            "options": [
+                "(A)越差",
+                "(B) 越高",
+                "(C) 不变",
+                "(D) 影响不大"
+            ],
+            "domain": 4,
+            "easeOrDifficulty": "2",
+            "importance": "Y",
+            "number": 1
+        },
+        {
+            "content": "制造较高精度、刀刃形状复杂并用于切削钢材的刀具，其材料应选用(    )。",
+            "type": "单项选择题",
+            "answer": "C",
+            "options": [
+                "(A)碳素工具钢",
+                "(B) 硬质合金",
+                "(C) 高速工具钢铁",
+                "(D)陶瓷"
+            ],
+            "domain": 3,
+            "easeOrDifficulty": "2",
+            "importance": "Y",
+            "number": 2
+        },
+        {
+            "content": "主切削刃在基面上的投影与切削平面之间的夹角，称为(    )。",
+            "type": "单项选择题",
+            "answer": "C",
+            "options": [
+                "(A)前角",
+                "(B)后角",
+                "(C)主偏角",
+                "(D) 副偏角"
+            ],
+            "domain": 3,
+            "easeOrDifficulty": "2",
+            "importance": "Y",
+            "number": 3
+        },
+        {
+            "content": "常用的千斤顶有(          )。",
+            "type": "多项选择题",
+            "answer": "BD",
+            "options": [
+                "(A)机械千斤顶",
+                "(B)液压千斤顶",
+                "(C)杠杆千斤顶",
+                "(D)螺旋式千斤顶",
+                "(E)电动式千斤顶"
+            ],
+            "domain": 1,
+            "easeOrDifficulty": "2",
+            "importance": "Y",
+            "number": 1
+        },
+        {
+            "content": "电动卷扬机主要由(          )组成，一般速度比较高、可调速、起重能力大。",
+            "type": "多项选择题",
+            "answer": "ACDF",
+            "options": [
+                "(A)电动机",
+                "(B)主轴箱",
+                "(C)减速箱",
+                "(D)制动器",
+                "(E)变速箱",
+                "(F)卷筒"
+            ],
+            "domain": 3,
+            "easeOrDifficulty": "2",
+            "importance": "Y",
+            "number": 2
+        },
+        {
+            "content": "安全技术操作规程是根据(          )等，制定出的合乎安全技术要求的操作程序。",
+            "type": "多项选择题",
+            "answer": "ADF",
+            "options": [
+                "(A)不同的生产性质",
+                "(B)不同的生产场地",
+                "(C)不同的生产规模",
+                "(D)不同的机械设备",
+                "(E)不同的生产组织",
+                "(F)不同的工具性能"
+            ],
+            "domain": 4,
+            "easeOrDifficulty": "2",
+            "importance": "Y",
+            "number": 3
+        },
+        {
+            "content": "硬质合金是一种耐磨性好、耐热性高、抗弯强度和冲击韧性都较高的刀具材料。(    )",
+            "type": "判断题",
+            "answer": "×",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "2",
+            "importance": "Y",
+            "number": 1
+        },
+        {
+            "content": "安装在刀架上的外圆车刀高于工作中心时，切削时前角增大，后角减小。(    )",
+            "type": "判断题",
+            "answer": "√",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "3",
+            "importance": "Y",
+            "number": 2
+        },
+        {
+            "content": "粗加工磨钝标准是按正常磨损阶段终了时的磨损值来制订的。(    )",
+            "type": "判断题",
+            "answer": "√",
+            "options": [],
+            "domain": 4,
+            "easeOrDifficulty": "2",
+            "importance": "Y",
+            "number": 3
+        },
+        {
+            "content": "金属切屑刀具切削部分的材料应具备哪些要求？",
+            "type": "简答题",
+            "answer": "答案：高硬度(1分）、高耐磨性（1分）、足够的强度和韧性（1.5分）、高的耐热性和良好的工艺性（1.5分）。",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "2",
+            "importance": "Y",
+            "number": 1
+        },
+        {
+            "content": "影响刀具寿命的因素有哪些？",
+            "type": "简答题",
+            "answer": "答案：有工件材料（1.5分）、刀具材料（1.5分）、刀具几何参数（1分）、切削用量（1分）。",
+            "options": [],
+            "domain": 3,
+            "easeOrDifficulty": "2",
+            "importance": "Y",
+            "number": 2
+        },
+        {
+            "content": "什么是机床夹具？",
+            "type": "简答题",
+            "answer": "答案：在机床上加工工件时，用来安装工件以确定工件与刀具的相对位置（2.5分），并将工件夹紧的装置称机床夹具（2.5分）。六、",
+            "options": [],
+            "domain": 3,
+            "easeOrDifficulty": "3",
+            "importance": "X",
+            "number": 3
+        },
+        {
+            "content": "弹簧钢丝直径d=3mm，D2=20mm，试计算弹簧能承受的最大载荷。(扭转许用应力[img])",
+            "type": "综合题",
+            "answer": "解：[img][img]答：弹簧允许最大载荷为[img]。．解：[img][img]答：此时活塞运动速度为[img]。．解：[img][img]答：它所产生的不平衡离心力为[img]。．解：[img][img][img]℃[img]℃答：热装时需加热温度为[img]℃．解：径节[img]的模数为：[img]答：径节为5的齿轮比模数为5的齿要大些。．解：（1）求小齿轮分度圆锥角[img]因为  [img]所以  [img]（2）求小锥齿轮分度圆直径[img][img]答：小圆锥齿轮分度圆锥角为[img]，分度圆直径为[img]。．解：∵[img]∴  [img]∵  [img][img]∴  [img]，[img][img]，[img]答：齿数[img]为20，[img]为60。．解：[img][img][img]答：该蜗杆导程为[img]，齿深为[img]，中径为[img]。．解：∵ 普通螺纹牙形角[img]∴ [img][img][img]．解：因为[img]：[img]：[img]所以   [img]答：可比原来多塞进去[img]。也可用简化公式作近似计算：[img]答：该螺纹中径为[img]。．解：按题示[img]",
+            "options": [],
+            "domain": 3,
+            "easeOrDifficulty": "4",
+            "importance": "X",
+            "number": 1,
+            "answerImage": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_1.svg",
+                    "width": 112,
+                    "height": 24
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_2.svg",
+                    "width": 389,
+                    "height": 24
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_3.svg",
+                    "width": 53,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_4.svg",
+                    "width": 408,
+                    "height": 24
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_5.svg",
+                    "width": 176,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_6.svg",
+                    "width": 65,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_7.svg",
+                    "width": 401,
+                    "height": 24
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_8.svg",
+                    "width": 209,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_9.svg",
+                    "width": 49,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_10.svg",
+                    "width": 209,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_11.svg",
+                    "width": 172,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_12.svg",
+                    "width": 359,
+                    "height": 25
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_13.svg",
+                    "width": 304,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_14.svg",
+                    "width": 27,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_15.svg",
+                    "width": 52,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_16.svg",
+                    "width": 293,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_17.svg",
+                    "width": 16,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_18.svg",
+                    "width": 192,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_19.svg",
+                    "width": 75,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_20.svg",
+                    "width": 23,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_21.svg",
+                    "width": 185,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_22.svg",
+                    "width": 44,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_23.svg",
+                    "width": 44,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_24.svg",
+                    "width": 237,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_25.svg",
+                    "width": 87,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_26.svg",
+                    "width": 223,
+                    "height": 24
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_27.svg",
+                    "width": 192,
+                    "height": 24
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_28.svg",
+                    "width": 92,
+                    "height": 24
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_29.svg",
+                    "width": 95,
+                    "height": 24
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_30.svg",
+                    "width": 109,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_31.svg",
+                    "width": 113,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_32.svg",
+                    "width": 19,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_33.svg",
+                    "width": 21,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_34.svg",
+                    "width": 259,
+                    "height": 24
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_35.svg",
+                    "width": 197,
+                    "height": 24
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_36.svg",
+                    "width": 233,
+                    "height": 24
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_37.svg",
+                    "width": 65,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_38.svg",
+                    "width": 48,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_39.svg",
+                    "width": 44,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_40.svg",
+                    "width": 56,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_41.svg",
+                    "width": 392,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_42.svg",
+                    "width": 293,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_43.svg",
+                    "width": 95,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_44.svg",
+                    "width": 9,
+                    "height": 17
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_45.svg",
+                    "width": 57,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_46.svg",
+                    "width": 13,
+                    "height": 15
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_47.svg",
+                    "width": 145,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_48.svg",
+                    "width": 43,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_49.svg",
+                    "width": 442,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_50.svg",
+                    "width": 71,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_51.svg",
+                    "width": 41,
+                    "height": 19
+                }
+            ],
+            "questionContentImages": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_1.svg",
+                    "width": 124,
+                    "height": 24
+                }
+            ]
+        },
+        {
+            "content": "进入某油缸的流量Q为20升/分，油缸活塞面积F为80厘米2，此时油缸活塞的运动速度V为多少米/分？",
+            "type": "综合题",
+            "answer": "",
+            "options": [],
+            "domain": 3,
+            "easeOrDifficulty": "4",
+            "importance": "X",
+            "number": 2
+        },
+        {
+            "content": "某一高速旋转机件，它的重量G为25kg，偏心量为2mm，转速n为2500转/分，求它所产生的不平衡离心力？",
+            "type": "综合题",
+            "answer": "",
+            "options": [],
+            "domain": 3,
+            "easeOrDifficulty": "4",
+            "importance": "X",
+            "number": 3
+        },
+        {
+            "content": "已知轴径为[img]，孔径为[img]，材料为碳钢，环境温度为34℃，求热装时需加热温度t？([img])",
+            "type": "综合题",
+            "answer": "",
+            "options": [],
+            "domain": 3,
+            "easeOrDifficulty": "4",
+            "importance": "X",
+            "number": 4,
+            "questionContentImages": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_2.svg",
+                    "width": 80,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_3.svg",
+                    "width": 79,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_4.svg",
+                    "width": 85,
+                    "height": 21
+                }
+            ]
+        },
+        {
+            "content": "某齿轮的径节DP为5，与模数为5的齿轮相比哪个齿大？(用计算法)",
+            "type": "综合题",
+            "answer": "",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "4",
+            "importance": "Y",
+            "number": 5
+        },
+        {
+            "content": "一对标准直齿圆锥齿轮，已知模数[img]，齿数[img]，齿顶高[img]，齿根高[img]，压力角[img]，轴交角[img]，求：小圆锥齿轮的分度圆锥角及分度圆直径。([img])",
+            "type": "综合题",
+            "answer": "",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "4",
+            "importance": "X",
+            "number": 6,
+            "questionContentImages": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_5.svg",
+                    "width": 41,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_6.svg",
+                    "width": 108,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_7.svg",
+                    "width": 65,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_8.svg",
+                    "width": 80,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_9.svg",
+                    "width": 55,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_10.svg",
+                    "width": 53,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_11.svg",
+                    "width": 235,
+                    "height": 21
+                }
+            ]
+        },
+        {
+            "content": "已知相啮合的一对标准直齿圆柱齿轮传动，主动轮转速为[img]从动轮转速[img]，中心距[img]，模数[img]，求齿数[img]、[img]。",
+            "type": "综合题",
+            "answer": "",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "4",
+            "importance": "X",
+            "number": 7,
+            "questionContentImages": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_12.svg",
+                    "width": 105,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_13.svg",
+                    "width": 104,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_14.svg",
+                    "width": 80,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_15.svg",
+                    "width": 64,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_16.svg",
+                    "width": 19,
+                    "height": 23
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_17.svg",
+                    "width": 21,
+                    "height": 23
+                }
+            ]
+        },
+        {
+            "content": "有一蜗杆，头数[img]，外径[img]，齿形角[img]，求导程L、齿深h及中径d2各部尺寸。(精确到[img])",
+            "type": "综合题",
+            "answer": "",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "3",
+            "importance": "X",
+            "number": 8,
+            "questionContentImages": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_18.svg",
+                    "width": 37,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_19.svg",
+                    "width": 44,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_20.svg",
+                    "width": 27,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_21.svg",
+                    "width": 55,
+                    "height": 19
+                }
+            ]
+        },
+        {
+            "content": "用直径[img]的三针，测量螺距[img]的普通三角螺纹，量得[img]，求螺纹中径[img])",
+            "type": "综合题",
+            "answer": "",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "5",
+            "importance": "X",
+            "number": 9,
+            "questionContentImages": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_22.svg",
+                    "width": 92,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_23.svg",
+                    "width": 57,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_24.svg",
+                    "width": 105,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_25.svg",
+                    "width": 214,
+                    "height": 23
+                }
+            ]
+        },
+        {
+            "content": "已知镶条的斜度为1：50，若按原斜度刨薄[img]，问它在燕尾形导轨配合中可比原来多塞进多少？",
+            "type": "综合题",
+            "answer": "",
+            "options": [],
+            "domain": 3,
+            "easeOrDifficulty": "3",
+            "importance": "X",
+            "number": 10,
+            "questionContentImages": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_26.svg",
+                    "width": 48,
+                    "height": 19
+                }
+            ]
+        },
+        {
+            "content": "用[img]型万能分度头将某法兰盘圆周分成6等份，试计算分度手柄需转的圈数[img]",
+            "type": "综合题",
+            "answer": "解：按题示null，由公式得[img]∴  分度手柄摇6整圈后，再在分度盘的24孔板上转过16个孔距，就完成工件的一次分度。答：分度手柄需转[img]圈。",
+            "options": [],
+            "domain": 3,
+            "easeOrDifficulty": "3",
+            "importance": "3",
+            "number": 11,
+            "answerImage": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_52.svg",
+                    "width": 271,
+                    "height": 21
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_53.svg",
+                    "width": 72,
+                    "height": 21
+                }
+            ],
+            "questionContentImages": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_27.svg",
+                    "width": 55,
+                    "height": 19
+                },
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_28.svg",
+                    "width": 21,
+                    "height": 19
+                }
+            ]
+        },
+        {
+            "content": "补画下图的三视图。",
+            "type": "综合题",
+            "answer": "答案：[img]",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "2",
+            "importance": "X",
+            "number": 12,
+            "answerImage": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_54.svg",
+                    "width": 288,
+                    "height": 219
+                }
+            ],
+            "attachedImage": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_29.png",
+                    "width": 609,
+                    "height": 235
+                }
+            ]
+        },
+        {
+            "content": "找出螺纹连接画法中的错误，并在指定位置画出正确图形。",
+            "type": "综合题",
+            "answer": "答案：[img]",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "3",
+            "importance": "X",
+            "number": 13,
+            "answerImage": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_55.svg",
+                    "width": 192,
+                    "height": 301
+                }
+            ],
+            "attachedImage": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_30.png",
+                    "width": 745,
+                    "height": 1041
+                }
+            ]
+        },
+        {
+            "content": "画出直齿圆柱齿轮的主、左视图，其主要参数为模数m=3mm，齿数Z=22，齿宽B=20mm，制有平键槽的轴孔直径D=25mm，并在图上标注尺寸。",
+            "type": "综合题",
+            "answer": "答案：[img]",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "4",
+            "importance": "X",
+            "number": 14,
+            "answerImage": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_56.png",
+                    "width": 919,
+                    "height": 607
+                }
+            ],
+            "attachedImage": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_31.png",
+                    "width": 698,
+                    "height": 426
+                }
+            ]
+        },
+        {
+            "content": "画出平板直齿圆柱齿轮的啮合图(主视图全剖)，其主要参数为模数m=3mm，齿数Z1=22，Z2=14齿宽B=20mm。",
+            "type": "综合题",
+            "answer": "答案：[img]",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "3",
+            "importance": "X",
+            "number": 15,
+            "answerImage": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_57.png",
+                    "width": 821,
+                    "height": 805
+                }
+            ],
+            "attachedImage": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_32.png",
+                    "width": 667,
+                    "height": 673
+                }
+            ]
+        },
+        {
+            "content": "补画下图的三视图。",
+            "type": "综合题",
+            "answer": "答案：[img]",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "3",
+            "importance": "X",
+            "number": 16,
+            "answerImage": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_58.png",
+                    "width": 737,
+                    "height": 641
+                }
+            ],
+            "attachedImage": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_33.png",
+                    "width": 389,
+                    "height": 651
+                }
+            ]
+        },
+        {
+            "content": "补画下图中的缺线。",
+            "type": "综合题",
+            "answer": "答案：[img]",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "3",
+            "importance": "X",
+            "number": 17,
+            "answerImage": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_59.png",
+                    "width": 775,
+                    "height": 539
+                }
+            ],
+            "attachedImage": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_34.png",
+                    "width": 793,
+                    "height": 573
+                }
+            ]
+        },
+        {
+            "content": "补画下图的三视图",
+            "type": "综合题",
+            "answer": "答案：[img]",
+            "options": [],
+            "domain": 1,
+            "easeOrDifficulty": "3",
+            "importance": "X",
+            "number": 18,
+            "answerImage": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/钳中测试答案图片/image_60.svg",
+                    "width": 312,
+                    "height": 260
+                }
+            ],
+            "attachedImage": [
+                {
+                    "url": "/home/huanjing/zcexamv1.0/images/机修钳工测试图片题目/image_35.png",
+                    "width": 453,
+                    "height": 663
+                }
+            ]
+        }
+    ],
+    "baseType": 0,
+    "questionBankType": 0
+}

@@ -1,0 +1,1 @@
+const s=4,A=5,L=8,N=[4,5,8],_={4:"考核站管理员",5:"总管理",8:"审卷专家"},t={1:"阅卷专家（历史）",2:"命题专家（历史）",3:"审题专家（历史）",6:"总管理员（历史）",7:"组卷专家（历史）"};function n(E){if(E==null)return NaN;const R=Number(E);return Number.isNaN(R)?NaN:R}function O(E,R){return n(E)===R}function o(E){const R=n(E);return _[R]||t[R]||"未知角色"}export{s as R,L as a,A as b,_ as c,N as d,o as g,O as i,n as t};
